@@ -1,8 +1,8 @@
-# text_analytics-hotel_reviews
+# text_analytics-disneyland_reviews
 
 ## Overview
 
-The jupyter notebook is developed to provide analytics solution from the hotel reviews by visitors in three Disneyland theme parks located in California, Paris and Hongkong. This notebook is developed in response to one of the university projects. The data is extracted from the TripAdvisor website. The notebook provides an executive summary, data exploration, text analysis and practical implication from the analysis conducted. 
+The jupyter notebook is developed to provide analytics solution from the reviews by disneyland visitors in three Disneyland theme parks located in California, Paris and Hongkong. This notebook is developed in response to one of the university projects. The data is extracted from the TripAdvisor website. The notebook provides an executive summary, data exploration, text analysis and practical implication from the analysis conducted. 
 
 ## Workflow
 
