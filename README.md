@@ -2,7 +2,7 @@
 
 ## Overview
 
-The jupyter notebook is developed to provide analytics solution from the reviews by disneyland visitors in three Disneyland theme parks located in California, Paris and Hongkong. This notebook is developed in response to one of the university projects. The data is extracted from the TripAdvisor website. The notebook provides an executive summary, data exploration, text analysis and practical implication from the analysis conducted. 
+The jupyter notebook is developed to provide analytics solution from the reviews by disneyland visitors in three Disneyland theme parks located in California, Paris and Hongkong. The insights obtained from the analysis is used to provide recommendations to Disneyland management to improve their services and customer satisfaction. This notebook is developed in response to one of the university projects. The data is extracted from the TripAdvisor website. The notebook provides an executive summary, data exploration, text analysis and practical implication from the analysis conducted. 
 
 ## Workflow
 
@@ -31,4 +31,5 @@ The following points details the workflow of this notebook:
 * wordcloud
 * math
 
-
+## Usage
+The notebook uses reviews from Disneyland visitors and performs analysis of those texts. A similar kind of analysis on texts related to any topic can be undertaken to gather insights that may facilitate in taking further actions to improve the business or mission.
