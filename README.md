@@ -1,4 +1,4 @@
-# text_analytics-disneyland_reviews
+# text_analytics_disneyland_reviews
 
 ## Overview
 
